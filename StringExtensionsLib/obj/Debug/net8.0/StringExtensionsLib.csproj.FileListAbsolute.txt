@@ -1,0 +1,12 @@
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\bin\Debug\net8.0\StringExtensionsLib.deps.json
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\bin\Debug\net8.0\StringExtensionsLib.dll
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\bin\Debug\net8.0\StringExtensionsLib.pdb
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\obj\Debug\net8.0\StringExtensionsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\obj\Debug\net8.0\StringExtensionsLib.AssemblyInfoInputs.cache
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\obj\Debug\net8.0\StringExtensionsLib.AssemblyInfo.cs
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\obj\Debug\net8.0\StringExtensionsLib.csproj.CoreCompileInputs.cache
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\obj\Debug\net8.0\StringExtensionsLib.sourcelink.json
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\obj\Debug\net8.0\StringExtensionsLib.dll
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\obj\Debug\net8.0\refint\StringExtensionsLib.dll
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\obj\Debug\net8.0\StringExtensionsLib.pdb
+C:\Users\abrin\Documents\Assignment 4\StringExtensionsLib\StringExtensionsLib\obj\Debug\net8.0\ref\StringExtensionsLib.dll

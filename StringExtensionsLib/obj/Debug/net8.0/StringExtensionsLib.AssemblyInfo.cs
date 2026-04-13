@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringExtensionsLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6131b781d0faf5e726f39136136906fa40928d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringExtensionsLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringExtensionsLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
